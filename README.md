@@ -74,7 +74,7 @@ Atingir **Product-Market Fit** (PMF) quando 40% dos líderes de comunidades (P1)
 
 | Papel | Responsável | Função |
 |--------|--------------|---------|
-| **Product Manager (PM)** | [Seu nome] | Definição de escopo, priorização e comunicação com stakeholders. |
+| **Product Manager (PM)** | Ana | Definição de escopo, priorização e comunicação com stakeholders. |
 | **UX Designer (1)** | — | Refinamento do fluxo de login e onboarding educacional. |
 | **Dev Backend (1)** | — | Integração de APIs (login, importação e templates). |
 | **Dev Frontend (1)** | — | Desenvolvimento da UI e telas de onboarding. |
@@ -131,6 +131,6 @@ Essas iniciativas equilibram aquisição, ativação e retenção — pilares es
 
 ---
 
-**Desenvolvido por:** [Seu Nome]  
+**Desenvolvido por:** [Ana Beatriz Ayumi Yokoya]  
 📚 Curso: Product Management — PM3  
 📆 Etapa 4 — Case Slack para Comunidades  
